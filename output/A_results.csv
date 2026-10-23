@@ -1,0 +1,5 @@
+scene,method,raw,ratio_passed,inliers,decision
+scene_1.jpg,ORB,1589,558,551,FOUND
+scene_1.jpg,SIFT,604,288,272,FOUND
+scene_2.jpg,ORB,1589,194,182,FOUND
+scene_3.jpg,ORB,1589,5,4,NOT FOUND
